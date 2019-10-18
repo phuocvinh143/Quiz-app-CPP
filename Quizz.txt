@@ -1,0 +1,287 @@
+Chap 1: Introduction to Computers
+1. Computer literacy, also known as digital literacy, involves having a current knowledge and understanding of _______. (3)
+a. computer programming
+b. *computers and their uses
+c. computer repair
+d. all of the above
+2. _______ is/are a collection of unprocessed items, which can include text, numbers, images, audio, and video. (4)
+a. *Data
+b. Instructions
+c. Programs
+d. Information
+3. Millions of people worldwide join online communities, each called _______, that encourage members to share their interests, ideas, stories, photos, music, and videos with other registered users. (10) 
+a. a podcast
+b. enterprise computing
+c. *a social networking Web site or online social network
+d. a blog
+4. _______ consists of the programs that control or maintain the operations of the computer and its devices. (11)
+a. A graphical user interface (GUI)
+b. A communications device
+c. *System software
+d. Application software
+5. Two types of _______ are desktop computers and notebook computers. (15)
+a. servers
+b. supercomputers
+c. mainframe computers
+d. *personal computers
+6. Five popular types of _______ are smart phones, PDAs, handheld computers, portable media players, and digital cameras. (17)
+a. *mobile devices
+b. notebook computers
+c. desktop computers
+d. tower computers
+7. A(n) _______ message is a real-time Internet communication, where you exchange messages with other connected users. (17)
+a. text
+b. *instant
+c. picture
+d. video
+8. Many large companies use the word(s), _______, to refer to the huge network of computers that meets their diverse computing needs. (23)
+a. information technology
+b. telecommuting
+c. *enterprise computing
+d. multimedia
+Chap 2: The Internet and World Wide Web
+1. _____ offers high-speed Internet connections to devices with built-in compatible technology or computers with wireless modems. (58)
+a. Cable Internet service
+b. A digital subscriber line
+c. *A cellular radio network
+d. Fiber to the Premises (FTTP)
+2. Instead of using broadband Internet service some home users connect to the Internet via _____, which is a slower-speed technology. (58)
+a. satellite Internet service
+b. cable Internet service
+c. DSL (Digital Subcriber Line)
+d. *dial-up access (connects by the telephone)
+3. _____ is the process of a computer or device receiving information, such as a Web page, from a server on the Internet. (62)
+a. Uploading
+b. Social networking
+c. *Downloading
+d. Blogging
+4. A _____ is a Web site that allows users to post short text updates, usually between 100 and 200 characters. (68)
+a. podcast
+b. wiki
+c. *microblog
+d. portal
+5. A _____ is a specific type of online social network that enables members to share photos, music, and videos. (69)
+a. blog
+b. wiki
+c. podcast
+d. *media sharing Web site
+6. A(n) _____ is a small version of a larger graphic. (71)
+a. *thumbnail
+b. wiki
+c.  MP3
+d. portal
+7. In _____ e-commerce, one consumer sells directly to another. (75)
+a. consumer-to-business
+b. business-to-business
+c. *consumer-to-consumer
+d. business-to-consumer
+8. The ______ standard permits uploading and downloading of files on the Internet. (80) 
+a. *FTP (File Transfer Protocol)
+b. newsgroup
+c. message board
+d. mailing list
+Chap 3: Application Software
+1. _____ is mass-produced, copyrighted retail software that meets the needs of a wide variety of users, not just a single user or company. (108) 
+a. Custom software
+b. Open source software
+c. A Web application
+d. *Packaged software
+2. A feature, called _______, allows users of word processing software to type words continually without pressing the enter key at the end of each line. (113) 
+a. AutoFormat
+b. clipboard
+c. AutoCorrect
+d. *wordwrap
+3. When using spreadsheet software, a function _______. (115) 
+a. depicts data in graphical form 
+b. changes certain values to reveal the effects of the changes 
+c. *is a predefined formula that performs common calculations 
+d. contains the formatting necessary for a specific worksheet type 
+4. _______ combines application software such as word processing, spreadsheet, presentation graphics, and e-mail. (118) 
+a. Shareware 
+b. *A software suite 
+c. Packaged software 
+d. Custom software 
+5. _______ software provides a means for sharing, distributing, and searching through documents by converting them into a format that can be viewed by any user. (119) 
+a. Portable Document Format (PDF) 
+b. *Document management 
+c. Database 
+d. Word processing 
+6. With _____, you can view, organize, sort, catalog, print, and share digital photos. (126) 
+a. spreadsheet software 
+b. *photo management software 
+c. clip art 
+d. desktop publishing software 
+7. A(n) _______ is an online area where users have written discussions. (130) 
+a. FTP program 
+b. text message 
+c. *newsgroup/message board 
+d. Web browser 
+8. _______ is the electronic equivalent of a user manual. (131) 
+a. Distance learning 
+b. *Online Help 
+c. Web-based training 
+d. E-learning
+Chap 4: The Components of the System Unit
+1. On _____ , the display often is built into the system unit. (157) 
+a. desktop personal computers 
+b. *mobile computers and devices 
+c. notebook computers 
+d. all of the above 
+2. The _____ is the component of the processor that directs and coordinates most of the operations in the computer. (159) 
+a. register 
+b. arithmetic logic unit 
+c. *control unit 
+d. machine cycle 
+3. Each processor core on a multi-core processor generally runs at _____ clock speed than a single-core processor. (159) 
+a. a faster 
+b. the same 
+c. twice the 
+d. *a slower 
+4. The term decoding refers to the process of _____. (160) 
+a. obtaining a program instruction or data item from memory 
+b. *translating an instruction into signals a computer can execute 
+c. carrying out commands 
+d. writing a result to memory 
+5. ROM chips, called _____ , contain permanently written data, instructions, or information. (167) 
+a. memory cache 
+b. registers 
+c. transistors 
+d. *firmware 
+6. A(n) _____ is a socket on the motherboard that can hold an adapter card. (169) 
+a. *expansion slot 
+b. parallel port 
+c. drive bay 
+d. front side bus 
+7. A(n) _____, which is an external device that attaches to a mobile computer or device, contains a power connection and provides connections to peripherals; it usually also includes slots for memory cards, optical disc drives, and other devices. (173) 
+a. *docking station 
+b. port replicator 
+c. peripheral 
+d. expansion bus 
+8. A(n) _____ is part of the motherboard and connects the processor to main memory. (174) 
+a. expansion bus 
+b. system clock 
+c. memory module 
+d. *front side bus
+Chap 5: Input and Output
+1. An ergonomic keyboard _______. (190) 
+a. *has a design that reduces wrist and hand injuries 
+b. transmits data using wireless technology 
+c. is used to enter data into a biometric device 
+d. is built into the top of a handheld computer 
+2. A _______ is a small metal or plastic device that looks like a tiny ink pen but uses pressure instead of ink. (194) 
+a. touch screen 
+b. *stylus 
+c. trackball 
+d. pointing stick 
+3. Architects, mapmakers, designers, artists, and home users create drawings and sketches on a _______. (194) 
+a. trackball 
+b. smart terminal 
+c. *graphics tablet 
+d. touchpad 
+4. _______ is the computer’s capability of distinguishing spoken words. (198) 
+a. Voice input 
+b. VoIP 
+c. MIDI 
+d. *Voice recognition 
+5. RFID is a technology that uses _______ to communicate with a tag placed in or attached to an object, an animal, or a person. (201) 
+a. a thin wire 
+b. pixels 
+c. *radio signals 
+d. light waves 
+6. The speed of an ink-jet printer is measured by the number of _______ it can print. (213) 
+a. lines per page (lpp) 
+b. *dots per inch (dpi) 
+c. characters per second (cps)
+d. pages per minute (ppm) 
+7. The primary disadvantage of multifunction peripherals is that _______. (215) 
+a. *if the multifunction peripheral breaks down, all functions are lost 
+b. they all use laser-printer technology 
+c. they are significantly more expensive than purchasing each device separately 
+d. all of the above 
+8. Basic _______ are inexpensive, but the print quality is low and the images tend to fade over time. (215) 
+a. laser printers 
+b. *thermal printers 
+c. dot-matrix printers 
+d. line printers
+Chap 6: Storage
+1. _______ measures the amount of time it takes a storage device to locate an item on a storage medium. (240) 
+a. Capacity 
+b. *Access time 
+c. A storage medium 
+d. Reading 
+2. A group of two or more integrated hard disks is called a _______. (244) 
+a. backup 
+b. platter 
+c. *RAID 
+d. portable hard disk 
+3. A _______ consists of a special-purpose chip and electronic circuits that control the transfer of data, instructions, and information from a disk to and from the system bus and other components in the computer. (246) 
+a. pocket hard drive 
+b. removable hard disk 
+c. magnetic disk 
+d. *disk controller 
+4. A _______ is a memory storage device that plugs in a USB port on a computer or mobile device. (250) 
+a. smart card 
+b. *USB flash drive 
+c. UMD 
+d. Memory Stick 
+5. Users subscribe to a cloud storage service to _______. (252) 
+a. access files from any computer that has Internet access 
+b. allow others to access their files 
+c. store offsite backups of data 
+d. *all of the above 
+6. _______ technology works with specially coated optical discs to etch labels directly on the disc. (253) 
+a. *LightScribe 
+b. SATA 
+c. LightSaber 
+d. SCSI 
+7. _______ storage requires sequential access. (257) 
+a. Hard disk 
+b. *Tape 
+c. Memory card 
+d. DVD 
+8. A(n) _____ card is a credit card, entertainment card, bank card, or other similar card, with a stripe that contains information identifying you and the card. (257) 
+a. Secure Digital High Capacity 
+b. *magnetic stripe 
+c. Secure Digital 
+d. microSDHC
+Chap 7: Operating Systems and Utility Programs
+1. In the Windows 7 operating system, _____ provides an enhanced visual look, additional navigation options, and animation. (273) 
+a. *Windows Aero 
+b. Plug and Play 
+c. Mac OS X 
+d. Windows 7 Starter 
+2. Windows users can increase the size of memory through _____, which can allocate available storage space on removable flash memory devices as additional memory cache. (275) 
+a. Windows Aero 
+b. Plug and Play 
+c. *Windows ReadyBoost 
+d. a disk defragmenter 
+3. A _____ is a small program that tells the operating system how to communicate with a specific device. (276) 
+a. buffer 
+b. *driver 
+c. performance monitor 
+d. device 
+4. Computer and network administrators typically have a(n) _____ that enables them to access all files and programs on the computer or network, install programs, and specify settings that affect all users on a computer or network. (278) 
+a. file manager 
+b. personal computer maintenance utility 
+c. *administrator account 
+d. graphical user interface 
+5. The operating system on most mobile devices and many consumer electronics, called a(n) _____, resides on a ROM chip. (283) 
+a. network operating system 
+b. *embedded operating system 
+c. stand-alone operating system 
+d. stand-alone utility program 
+6. A _____ is a specific named location on a storage medium that contains related documents. (285) 
+a. file 
+b. buffer 
+c. utility 
+d. *folder 
+7. A(n) _____ is a program that warns or blocks you from potentially fraudulent or suspicious Web sites. (290) 
+a. *phishing filter 
+b. adware remover
+c. Web filter 
+d. Trojan horse 
+8. A(n) _____ is a program that allows you to view images and animation, listen to audio, and watch video files on your computer. (290) 
+a. file manager 
+b. *media player 
+c. service pack 
+d. image viewer
