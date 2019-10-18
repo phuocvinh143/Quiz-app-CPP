@@ -6,7 +6,7 @@ vector<string> ques[107], options;
 string name_chapter, chapter_user_want;
 
 void Intro(){
-    ifstream input("Quizz.txt");
+    ifstream input("Quiz.txt");
     //freopen("Quizz.txt", "r", stdin);
     while (getline(input, name_chapter)) {
         if (name_chapter[0] == 'C' && name_chapter[6] == ':') cout << name_chapter << endl;
@@ -42,7 +42,7 @@ int main(){
         Intro();
         int iQuest = 0;
         system("CLS");
-        ifstream input_ques("Quizz.txt");
+        ifstream input_ques("Quiz.txt");
         while (true) {
             string name_chapter;
             getline(input_ques, name_chapter);
