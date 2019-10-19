@@ -178,7 +178,7 @@ a. trackball
 b. smart terminal 
 c. *graphics tablet 
 d. touchpad 
-4. _______ is the computer’s capability of distinguishing spoken words. (198) 
+4. _______ is the computer's capability of distinguishing spoken words. (198) 
 a. Voice input 
 b. VoIP 
 c. MIDI 
